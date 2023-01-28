@@ -4,3 +4,5 @@ You visit a small cafe, catching up with some friends, when a loud crash interru
 
 What do you do next?
 [Flash](/flash.md)
+[enemy](/enemy.md)
+[Do nothing](/nothing.md)
