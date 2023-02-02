@@ -6,3 +6,4 @@ What do you do next?
 [Flash](/flash.md)
 [enemy](/enemy.md)
 [Do nothing](/nothing.md)
+[Detective](/detective.md)
