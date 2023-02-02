@@ -10,3 +10,5 @@ What do you do next?
 [do nothing](/nothing.md)
 
 [detective](/detective.md)
+
+[secret](/secret.md)
