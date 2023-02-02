@@ -8,3 +8,4 @@ What do you do next?
 [enemy](/enemy.md)
 [Do nothing](/nothing.md)
 [secret](/secret.md)
+[detective](/detective.md)
