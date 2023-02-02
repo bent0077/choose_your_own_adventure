@@ -1,1 +1,3 @@
 I tried to look for anyone suspicious, but I couldn't find any. I was wondering who the hell did this, but I don't have time to think about it now, because there are still people in danger in the office building. I activate my superpower, my super speed. I am so fast that time stopped, and I go through the damaged corridors, saving almost everyone. While I was trying to get the rest out, I see a suspicious person.He's watching me from the street not far from here, he seems to be able to see me when I was moving at high speed.  It scares me, I wonder if he has superpowers too? How much does he know about me and why does he want me to show up. Who the hell is he!
+
+What to do next.
