@@ -3,6 +3,7 @@ You are a college student in your early 20s, born with superhuman strength, spee
 You visit a small cafe, catching up with some friends, when a loud crash interrupts your conversation. Looking out the window, a block of an office building flattened a parked car. People are screaming and running frantically, but you don't see who or what is causing the chaos.
 
 What do you do next?
+
 [Flash](/flash.md)
 
 [enemy](/enemy.md)
