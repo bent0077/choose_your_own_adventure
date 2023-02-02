@@ -7,6 +7,6 @@ What do you do next?
 
 [enemy](/enemy.md)
 
-[Do nothing](/nothing.md)
+[do nothing](/nothing.md)
 
-[Detective](/detective.md)
+[detective](/detective.md)
